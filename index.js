@@ -1,8 +1,3 @@
-// import express from 'express';
-// import { urlencoded, json } from 'body-parser';
-// import nodemailer from 'nodemailer';
-
-
 const express = require('express');
 const bodyParser = require('body-parser');
 const nodemailer = require('nodemailer');
