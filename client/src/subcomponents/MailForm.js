@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import styled from "styled-components";
 /* AS A FUNCTIONAL COMPONENT*/
 import axios from 'axios';
+// import nodemailer from 'nodemailer'
 
 
 

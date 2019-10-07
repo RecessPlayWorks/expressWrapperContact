@@ -47,12 +47,12 @@ const TopNav = () => {
         <li><Link to="/events">Events</Link></li>
         <li><Link to="/membership">Membership</Link></li>
         <li>
-          <a className="cta-logo" href="#">
+          {/* <a className="cta-logo" href="#">
             <img 
               src="https://www.dropbox.com/s/2vmz8q7f8wzd04z/rpwlogo.png?raw=1" 
               alt="RecessPlayWorks Logo" 
             />
-          </a>
+          </a> */}
         </li>
       </ul>
     </StyledTopNav>
